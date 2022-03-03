@@ -10,10 +10,10 @@ BIOS版本：7.9魔改版，添加了8代U0 和6代正式版微码
 BIOS配置：  
 > Load UEFI Defaults  
 > ACPI Configuration, 除第一、第二项为开启外，其余选项均关闭  
-Super IO Configuration, Serial Port, Disabled  
-Security Secure Boot, Disabled  
-CSM Disable  
-功能状态  
+> Super IO Configuration, Serial Port, Disabled  
+> Security Secure Boot, Disabled  
+> CSM Disable  
+功能状态：  
 正常（用过的）  
   接力，苹果表解锁  
   air Pods Pro 手机电脑无缝切换  
