@@ -8,9 +8,9 @@ CPU：QNCW （正式版型号Xeon E-2146G）（做了8代屏蔽）
 无线/蓝牙模块：BCM943602CS + M.2转接板 ，无线和蓝牙完全免驱（这是废话，因为是MBP15款拆机的）  
 BIOS版本：7.9魔改版，添加了8代U0 和6代正式版微码  
 BIOS配置：  
-  Load UEFI Defaults  
-  ACPI Configuration, 除第一、第二项为开启外，其余选项均关闭  
-  Super IO Configuration, Serial Port, Disabled  
+> Load UEFI Defaults  
+> ACPI Configuration, 除第一、第二项为开启外，其余选项均关闭  
+Super IO Configuration, Serial Port, Disabled  
 Security Secure Boot, Disabled  
 CSM Disable  
 功能状态  
