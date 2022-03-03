@@ -12,7 +12,7 @@ BIOS配置：
 > ACPI Configuration, 除第一、第二项为开启外，其余选项均关闭  
 > Super IO Configuration, Serial Port, Disabled  
 > Security Secure Boot, Disabled  
-> CSM Disable  
+> CSM Disable   <
 功能状态：  
 正常（用过的）  
   接力，苹果表解锁  
