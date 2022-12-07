@@ -3,7 +3,7 @@
 ---------------
 2022年3月3日更新 华擎 ASRock deskmini H110M-STX/com  
 配置：  
-CPU：QNCW （正式版型号Xeon E-2146G）（做了8代屏蔽）  
+CPU：QNCW （正式版型号Xeon E-2146G）（做了8代针脚屏蔽）  
 核显：Intel UHD P630  (DeviceID:0x3E96)  
 无线/蓝牙模块：BCM943602CS + M.2转接板 ，无线和蓝牙完全免驱（这是废话，因为是MBP15款拆机的）  
 BIOS版本：7.9魔改版，添加了8代U0 和6代正式版微码  
